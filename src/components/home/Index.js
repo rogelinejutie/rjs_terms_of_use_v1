@@ -11,9 +11,9 @@ export const Home = () => {
   const useStyles = makeStyles({
     root: {
       color: '#A9A9A9',
-      '&:hover': {
+      '&:hover, &:focus': {
         fontWeight: 'bold',
-        textDecorationLine: 'underline',
+        //textDecorationLine: 'underline',
         color: '#0070ef',
         backgroundColor: 'white',
     }},
