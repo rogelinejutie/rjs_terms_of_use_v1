@@ -1,4 +1,4 @@
-const Terms = ({data, index}) => {
+const Function = ({data, index}) => {
     return (
         <div>
             {data[index].map(item =>(
@@ -9,5 +9,4 @@ const Terms = ({data, index}) => {
         </div>
     );
 };
-
-export default Terms;
+export default Function;

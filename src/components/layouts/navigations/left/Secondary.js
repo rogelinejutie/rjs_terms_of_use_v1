@@ -98,5 +98,5 @@ export const Secondary = ({ classes }) => {
                 </Box>
             </Toolbar>
         </AppBar>
-    )
+    );
 }

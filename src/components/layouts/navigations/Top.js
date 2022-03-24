@@ -48,14 +48,14 @@ export const Top = () => {
 
     return (
         <Box width="100%">
-            <AppBar position="fixed">
+            {/* <AppBar position="fixed">
                 <Toolbar variant="dense">
                     <Box className="c-pointer" display="flex" justifyContent="flex-end" alignItems="center" width="100%" fontSize={16}>
                         <Box onClick={()=>redirect('psl')} mr={3}>My Personal</Box>
                         <Box onClick={()=>redirect('biz')} >My Business</Box>
                     </Box>
                 </Toolbar>
-            </AppBar>
+            </AppBar> */}
             {
                 __SESSION !== null && (
                     <Switching switchForm={switchForm} setSwitchForm={setSwitchForm} />
