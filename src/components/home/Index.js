@@ -12,27 +12,30 @@ export const Home = () => {
     root: {
       color: '#A9A9A9',
       '&:hover, &:focus': {
-        fontWeight: 'bold',
         //textDecorationLine: 'underline',
         color: '#0070ef',
         backgroundColor: 'white',
+    }},
+    text: {
+      '&:hover, &:focus': {
+        fontWeight: 'bold',
     }},
   });
   const classes = useStyles();
 
   return ( 
     <Box>
-        <Box sx={{ width: '80%', height: '75%', pl: 12, pt: 4, pb: 3, margin: "auto", mb: 0.3, bgcolor: "white", color: "black"}} justify="center">
+        <Box sx={{ width: '80%', height: '75%', pl: 12, pt: 4, pb: 3, mt: 0.50, margin: "auto", mb: 0.3, bgcolor: "white", color: "black"}} justify="center">
           <Typography sx={{ fontFamily: 'Poppins-Medium' }} variant="h5"><img src={Logo} alt="load" width="44"/><b>POF</b>SIS</Typography><br/>
           <Button className={classes.root} onClick={() => setActive("Terms")}>    
-            <Typography sx={{ fontFamily: 'Poppins-Medium', fontSize: 17, mr: 5 }}>Terms & Conditions</Typography>
+            <Typography className={classes.text} sx={{ fontFamily: 'Poppins-Medium', fontSize: 17, mr: 5 }}>Terms & Conditions</Typography>
           </Button >
           <Button className={classes.root} onClick={() => setActive("Policy")}>    
-            <Typography sx={{ fontFamily: 'Poppins-Medium', fontSize: 17, mr: 5 }}>Data Privacy Policy</Typography>
+            <Typography className={classes.text} sx={{ fontFamily: 'Poppins-Medium', fontSize: 17, mr: 5 }}>Data Privacy Policy</Typography>
           </Button >
           <Button className={classes.root} onClick={() => setActive("Cookies")}>    
-            <Typography sx={{ fontFamily: 'Poppins-Medium', fontSize: 17, mr: 5 }}>Cookies Policy</Typography>
-          </Button >
+            <Typography className={classes.text} sx={{ fontFamily: 'Poppins-Medium', fontSize: 17, mr: 5 }}>Cookies Policy</Typography>
+          </Button>
         </Box>
         <Box bgcolor= "white" sx={{ width: '80%', pl: 12, pt: 6, pb: 4, pr:12, margin: "auto", bgcolor: "white", color: "black" }}>
           {active === "Terms" && <Terms data={Data} index={0}/>}
