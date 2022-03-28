@@ -9,53 +9,53 @@ export default [
             data: 
                 <Box>
                     <Box style={{textAlign: "center"}}> <img src={Term} alt="terms" width="250"/></Box><br/><br/>
-                    <Typography sx={{ fontFamily: 'Poppins-Medium'}} fontWeight='bold' variant="h5">Terms and Conditions</Typography><br/><br/>
-                    <Typography sx={{ fontFamily: 'Poppins-Medium'}} variant="body1">
+                    <Typography sx={{ fontFamily: 'Poppins'}} fontWeight='bold' variant="h5">Terms and Conditions</Typography><br/><br/>
+                    <Typography sx={{ fontFamily: 'Poppins'}} variant="body1">
                         Welcome to POFSIS platform! Please read these terms and conditions carefully. The following Terms of Use govern, your use and access of the Platform (defined below) and the use of the Services. By accessing the Platform and/or using the Services, you agree to be bound by these Terms of Use. If you do not agree to these Terms of Use, do not access and/or use this Platform or the Services.
                         <br/><br/>POFSIS supervise, produce, provide and accredit all tools under its umbrella making sure that every tools will fulfill and worthy of your business satisfaction and standards in terms of system application needs. POFSIS consists of multiple layers of steps to assure the quality of services and it precisely aligns the standards of a system application.
                         <br/><br/>Access to and use of password protected and/or secure areas of the Platform and/or use of the Services are restricted to Customers with accounts only. You may not obtain or attempt to obtain unauthorized access to such parts of this Platform and/or Services, or to any other protected information, through any means not intentionally made available by us for your specific use.
                         <br/><br/>You are at least 18 years old to sign-up and using/accessing this Platform and the Services. If you fail to comply with the Terms and Conditions of this Platform, any system powered by POFSIS, POFSIS and its company shall not be held liable to any form of damages may cause you or to the company.
                         <br/><br/>Our Data Policy explains how we collect and use your personal data. By using our tool/s, you agree that we can show you ads that we think relevant to you and suitable for your interests. We use your personal data to able to determine which ads to show you.
                     </Typography><br/><br/><br/>
-                    <Typography sx={{ fontFamily: 'Poppins-Medium'}} fontWeight='bold' variant="h6">1. The Service we Provided</Typography>
-                    <Typography sx={{ fontFamily: 'Poppins-Medium'}} variant="body1">
+                    <Typography sx={{ fontFamily: 'Poppins'}} fontWeight='bold' variant="h6">1. The Service we Provided</Typography>
+                    <Typography sx={{ fontFamily: 'Poppins'}} variant="body1">
                         <br/>Our mission is to give people the convenience we offer, build a relationship from technology to people and bring the world closer together. To achieve this mission, we provide features and tools powered by POFSIS. We described the services we provide below to you:<br/><br/><br/>
                     </Typography>
-                        <Typography sx={{ color: '#0070ef', fontFamily: 'Poppins-Medium'}} variant="body1">
+                        <Typography sx={{ color: '#0070ef', fontFamily: 'Poppins'}} variant="body1">
                             <li>Provide a better experience for you.<br/><br/></li>
                         </Typography>
-                        <Typography sx={{ fontFamily: 'Poppins-Medium'}} variant="body1">
+                        <Typography sx={{ fontFamily: 'Poppins'}} variant="body1">
                             Your experience on POFSIS is unlike anyone else. From the design, user friendly environment as we categorized the products we offer and its quality, on how the user’s point of view using different devices. And up to your personal account security and payment facility. Our video testimonials and tutorials in our platform to easily inform the user by just viewing the platform.<br/><br/>
                         </Typography>
-                        <Typography sx={{ fontFamily: 'Poppins-Medium', color: '#0070ef' }} variant="body1">
+                        <Typography sx={{ fontFamily: 'Poppins', color: '#0070ef' }} variant="body1">
                             <li>Connect you with people and organizations.<br/><br/></li>
                         </Typography>
-                        <Typography sx={{ fontFamily: 'Poppins-Medium'}} variant="body1">
+                        <Typography sx={{ fontFamily: 'Poppins'}} variant="body1">
                             We help you connect with people you care about. You can find your friends or new friends and you can join to any organizations or any group with the features in the platform.<br/><br/>
                         </Typography>
-                        <Typography sx={{ fontFamily: 'Poppins-Medium', color: '#0070ef' }} variant="body1">
+                        <Typography sx={{ fontFamily: 'Poppins', color: '#0070ef' }} variant="body1">
                             <li>Empower you to express yourself and what matters to you.<br/><br/></li>
                         </Typography>
-                        <Typography sx={{ fontFamily: 'Poppins-Medium'}} variant="body1">
+                        <Typography sx={{ fontFamily: 'Poppins'}} variant="body1">
                             There are many ways to express yourself like your ideas on specific matter, your suggestions and your comments. You can easily express yourself by posting matters to you in your own newsfeed. There are feature to help you find and know yourself, your desire to grow, your role model or can be your mentor and you can be a mentor in the future.<br/><br/>
                         </Typography>
-                        <Typography sx={{ fontFamily: 'Poppins-Medium', color: '#0070ef' }} variant="body1">
+                        <Typography sx={{ fontFamily: 'Poppins', color: '#0070ef' }} variant="body1">
                             <li>Discover our products and services that may interest you.<br/><br/></li>
                         </Typography>
-                        <Typography sx={{ fontFamily: 'Poppins-Medium'}} variant="body1">
+                        <Typography sx={{ fontFamily: 'Poppins'}} variant="body1">
                             We show you promos, bundles or offers and other sponsored content to help you discover more of our products and services that may interest you and essential for you.<br/><br/>
                         </Typography>
-                        <Typography sx={{ fontFamily: 'Poppins-Medium', color: '#0070ef' }} variant="body1">
+                        <Typography sx={{ fontFamily: 'Poppins', color: '#0070ef' }} variant="body1">
                             <li>Develop advanced technologies to provide services to the community.<br/><br/></li>
                         </Typography>
-                        <Typography sx={{ fontFamily: 'Poppins-Medium'}} variant="body1">
+                        <Typography sx={{ fontFamily: 'Poppins'}} variant="body1">
                             We plan and engage to research, analyze and develop in line with the trend and suitable for users. We provide thorough testing and continuous necessary improvements of our products and systems to provide services that a community deserves.<br/><br/><br/><br/>
                         </Typography>
-                    <Typography sx={{ fontFamily: 'Poppins-Medium'}} fontWeight='bold' variant="h6">2. General Use of Services and/or Access of Platform</Typography>
-                    <Typography sx={{ fontFamily: 'Poppins-Medium'}} variant="body1">
+                    <Typography sx={{ fontFamily: 'Poppins'}} fontWeight='bold' variant="h6">2. General Use of Services and/or Access of Platform</Typography>
+                    <Typography sx={{ fontFamily: 'Poppins'}} variant="body1">
                         <br/>Guidelines to the use of Platform and/or Services: You agree to comply with any and all the guidelines, notices, operating rules and policies and instructions pertaining to the use of the Services and/or access to the Platform, as well as any amendments to the aforementioned, issued by us, from time to time. We reserve the right to revise these guidelines, notices, operating rules and policies and instructions at any time and you are deemed to be aware of and bound by any changes to the foregoing upon their publication on the Platform.
                     </Typography><br/>
-                    <Typography sx={{ fontFamily: 'Poppins-Medium'}} variant="body1">
+                    <Typography sx={{ fontFamily: 'Poppins'}} variant="body1">
                         <b>Restricted activities: You agree and undertake NOT to:</b>
                         <br/><br/>(a) Impersonate any person or entity or to falsely state or otherwise misrepresent your affiliation with any person or entity;
                         <br/><br/>(b) Use the Platform or Services for illegal purposes;
@@ -74,8 +74,8 @@ export default [
                         <br/><br/>Terms & Conditions of Sale: Purchases of any Product would be subject to the Terms & Conditions of Sale.
                         <br/><br/>Additional terms: In addition to these Terms of Use, the use of specific aspects of the Materials and Services, more comprehensive or updated versions of the Materials offered by us or our designated sub-contractors, may be subject to additional terms and conditions, which will apply in full force and effect.
                     </Typography><br/><br/><br/>
-                    <Typography sx={{ fontFamily: 'Poppins-Medium'}} fontWeight='bold' variant="h6">3. Use of Services</Typography>
-                    <Typography sx={{ fontFamily: 'Poppins-Medium'}} variant="body1">
+                    <Typography sx={{ fontFamily: 'Poppins'}} fontWeight='bold' variant="h6">3. Use of Services</Typography>
+                    <Typography sx={{ fontFamily: 'Poppins'}} variant="body1">
                         <br/>Application of this Clause: In addition to all other terms and conditions of these Terms of Use, the provisions in thisare the additional specific terms and conditions governing your use of the Services.
                         <br/><br/>Restrictions: Use of the Services is limited to authorize Customers that are of legal age and who have the legal capacity to enter into and form contracts under any applicable law. Customers who have breached or are in breach of the terms and conditions contained herein and Customers who have been permanently or temporarily suspended from use of any of the Services may not use the Services even if they satisfy the requirements of this.
                         <br/><br/><b>General terms of use: You agree:</b>
@@ -85,22 +85,22 @@ export default [
                         <br/><br/>Prices of Products: All Listing Prices are subject to taxes, unless otherwise stated. We reserve the right to amend the Listing Prices at any time without giving any reason or prior notice.
                         <br/><br/>3.6 Third Party Vendors: You acknowledge that parties other than POFSIS (i.e. Third Party-Vendors or Sellers) list and sell Products on the Platform. Whether a particular Product is listed for sale on the Platform by POFSIS may be stated on the webpage listing that Product. For the avoidance of doubt, each agreement entered into for the sale of a Third-Party Vendor’s Products to a Customer shall be an agreement entered into directly and only between the ThirdParty Vendor and the Customer.
                     </Typography><br/><br/><br/>
-                    <Typography sx={{ fontFamily: 'Poppins-Medium'}} fontWeight='bold' variant="h6">4. Customers with Accounts</Typography>
-                    <Typography sx={{ fontFamily: 'Poppins-Medium'}} variant="body1">
+                    <Typography sx={{ fontFamily: 'Poppins'}} fontWeight='bold' variant="h6">4. Customers with Accounts</Typography>
+                    <Typography sx={{ fontFamily: 'Poppins'}} variant="body1">
                         <br/>Username/Password: Certain Services that may be made available on the Platform may require creation of an account with us or for you to provide Personal Data. If you request to create an account with us, a Username and Password may either be: (i) determined and issued to you by us; or (ii) provided by you and accepted by us in our sole and absolute discretion in connection with the use of the Services and/or access to the relevant Platform. We may at any time in our sole and absolute discretion, request that you update your Personal Data or forthwith invalidate the Username and/or Password without giving any reason or prior notice and shall not be liable or responsible for any Losses suffered by or caused by you or arising out of or in connection with or by reason of such request or invalidation. You hereby agree to change your Password from time to time and to keep the Username and Password confidential and shall be responsible for the security of your account and liable for any disclosure or use (whether such use is authorized or not) of the Username and/or Password. You should notify us immediately if you have knowledge that or have reason for suspecting that the confidentiality of the Username and/or Password has been compromised or if there has been any unauthorized use of the Username and/or Password or if your Personal Data requires updating.
                         <br/><br/><b>Purported use/access: You agree and acknowledge that any use of the Services and/or any access to the Platform and any information, data or communications referable to your Username and Password shall be deemed to be, as the case may be:</b>
                         <br/><br/>(a) access to the relevant Platform and/or use of the Services by you; or
                         <br/><br/>(b) Information, data or communications posted, transmitted and validly issued by you.
                         <br/><br/><br/>You agree to be bound by any access of the Platform and/or use of any Services (whether such access or use are authorized by you or not) and you agree that we shall be entitled (but not obliged) to act upon, rely on or hold you solely responsible and liable in respect thereof as if the same were carried out or transmitted by you. You further agree and acknowledge that you shall be bound by and agree to fully indemnify us against any and all Losses attributable to any use of any Services and/or or access to the Platform referable to your Username and Password.
                     </Typography><br/><br/><br/>
-                    <Typography sx={{ fontFamily: 'Poppins-Medium'}} fontWeight='bold' variant="h6">5. Intellectual Property</Typography>
-                    <Typography sx={{ fontFamily: 'Poppins-Medium'}} variant="body1">
+                    <Typography sx={{ fontFamily: 'Poppins'}} fontWeight='bold' variant="h6">5. Intellectual Property</Typography>
+                    <Typography sx={{ fontFamily: 'Poppins'}} variant="body1">
                         <br/>Ownership: The Intellectual Property in and to the Platform and the Materials are owned, licensed to or controlled by us, our licensors or our service providers. We reserve the right to enforce its Intellectual Property to the fullest extent of the law.
                         <br/><br/>Restricted use: No part or parts of the Platform, or any Materials may be reproduced, reverse engineered, decompiled, disassembled, separated, altered, distributed, republished, displayed, broadcast, hyperlinked, mirrored, framed, transferred or transmitted in any manner or by any means or stored in an information retrieval system or installed on any servers, system or equipment without our prior written permission or that of the relevant copyright owners. Subject to Clause 5.3, permission will only be granted to you to download, print or use the Materials for personal and non-commercial uses, provided that you do not modify the Materials and that we or the relevant copyright owners retain all copyright and other proprietary notices contained in the Materials.
                         <br/><br/>Trademarks: The Trademarks are registered and unregistered trademarks of us or third parties. Nothing on the Platform and in these Terms of Use shall be construed as granting, by implication, estoppels, or otherwise, any license or right to use (including as a meta tag or as a “hot” link to any other website) any Trademarks displayed on the Services, without our written permission or any other applicable trademark owner.
                     </Typography><br/><br/><br/>
-                    <Typography sx={{ fontFamily: 'Poppins-Medium'}} fontWeight='bold' variant="h6">6. Our Limitation of Responsibility and Liability</Typography>
-                    <Typography sx={{ fontFamily: 'Poppins-Medium'}} variant="body1">
+                    <Typography sx={{ fontFamily: 'Poppins'}} fontWeight='bold' variant="h6">6. Our Limitation of Responsibility and Liability</Typography>
+                    <Typography sx={{ fontFamily: 'Poppins'}} variant="body1">
                         <br/>No representations or warranties: The Services, the Platform and the Materials are provided on an “as is” and “as available” basis. All data and/or information contained in the Platform, the Services or the Materials are provided for informational purposes only. No representations or warranties of any kind, implied, express or statutory, including the warranties of non-infringement of third party rights, title, merchantability, satisfactory quality or fitness for a particular purpose, are given in conjunction with the Platform, the Services or the Materials. Without prejudice to the generality of the foregoing, we do not warrant:
                         <br/><br/>(a) The accuracy, timeliness, adequacy, commercial value or completeness of all data and/or information contained in the Platform, the Services or the Materials;
                         <br/><br/>(b) That the Platform, the Services or that any of the Materials will be provided uninterrupted, secure or free from errors or omissions, or that any identified defect will be corrected;
@@ -113,33 +113,33 @@ export default [
                         <br/><br/>(d) any use of or access to any other website or webpage linked to the Platform, even if we or our officers or agents or employees may have been advised of, or otherwise might have anticipated, the possibility of the same.
                         <br/><br/>At your own risk: Any risk of misunderstanding, error, damage, expense or Losses resulting from the use of the Platform is entirely at your own risk and we shall not be liable therefore.
                     </Typography><br/><br/><br/>
-                    <Typography sx={{ fontFamily: 'Poppins-Medium'}} fontWeight='bold' variant="h6">7. Hyperlinks and Alerts</Typography>
-                    <Typography sx={{ fontFamily: 'Poppins-Medium'}} variant="body1">
+                    <Typography sx={{ fontFamily: 'Poppins'}} fontWeight='bold' variant="h6">7. Hyperlinks and Alerts</Typography>
+                    <Typography sx={{ fontFamily: 'Poppins'}} variant="body1">
                         <br/>Hyperlinks: For your convenience, we may include hyperlinks to other websites or content on the Internet that are owned or operated by third parties. Such linked websites or content are not under our control and we are not liable for any errors, omissions, delays, defamation, libel, slander, falsehood, obscenity, pornography, profanity, inaccuracy or any other objectionable material contained in the contents, or the consequences of accessing, any linked website. Any hyperlinks to any other websites or content are not an endorsement or verification of such websites or content and you agree that your access to or use of such linked websites or content is entirely at your own risk.
                         <br/><br/>Promotions: We may attach banners, java applets and/or such other materials to the Platform for the purposes of promoting our or our Third-Party Vendors’ products and/or services. For the avoidance of doubt, you shall not be entitled to receive any payment, fee and/or commission in respect of any such promotional materials.
                     </Typography><br/><br/><br/>
-                    <Typography sx={{ fontFamily: 'Poppins-Medium'}} fontWeight='bold' variant="h6">8. Your Submissions and Information</Typography>
-                    <Typography sx={{ fontFamily: 'Poppins-Medium'}} variant="body1">
+                    <Typography sx={{ fontFamily: 'Poppins'}} fontWeight='bold' variant="h6">8. Your Submissions and Information</Typography>
+                    <Typography sx={{ fontFamily: 'Poppins'}} variant="body1">
                         <br/>Submissions by you: You grant us a non-exclusive license to use the materials or information that you submit to the Platform and/or provide to us, including but not limited to, questions, reviews, comments, and suggestions (collectively, “Submissions”). When you post comments or reviews to the Platform, you also grant us the right to use the name that you submit or your Username in connection with such review, comment, or other content. You shall not use a false e-mail address, pretend to be someone other than you or otherwise mislead us or third parties as to the origin of any Submissions. We may, but shall not be obligated to, publish, remove or edit your Submissions.
                         <br/><br/>Consent to receive e-mails: You give your full, free, and unequivocal consent and authority to the collection, processing and use by us of any information provided by you (including Personal Data) for the purposes of sending informational and promotional e-mails and any and all communications, notices, updates and other information to you. Your agreement to the provisions of this Clause 8.2 shall constitute your consent for the purpose of the provisions of any spam control laws (whether in Philippines or elsewhere). You may subsequently opt out of receiving promotional e-mails by clicking on the appropriate hyperlink in any promotional e-mail.
                         <br/><br/>POFSIS may, from time to time, be required by government agencies to disclose certain information in connection with any audit or investigation. You understand that we are not required to contest any demand made by an (government) authority for such information.
                         <br/><br/>Privacy Policy: You acknowledge that you have read and agree to the Privacy Policy set out Here and consent to our collection, use and disclosure of your Personal Data for the purposes as set out in the Privacy Policy.
                     </Typography><br/><br/><br/>
-                    <Typography sx={{ fontFamily: 'Poppins-Medium'}} fontWeight='bold' variant="h6">9. Termination</Typography>
-                    <Typography sx={{ fontFamily: 'Poppins-Medium'}} variant="body1">
+                    <Typography sx={{ fontFamily: 'Poppins'}} fontWeight='bold' variant="h6">9. Termination</Typography>
+                    <Typography sx={{ fontFamily: 'Poppins'}} variant="body1">
                         <br/>Termination by us: In our sole and absolute discretion, we may with immediate effect, upon giving you notice, terminate your use of the Platform and/or Services and/or disable your Username and Password. We may bar access to the Platform and/or Services (or any part thereof) for any reason whatsoever, including a breach of any of these Terms of Use or where if we believe that you have violated or acted inconsistently with any terms or conditions set out herein, or if in our opinion or the opinion of any regulatory authority, it is not suitable to continue providing the services relating to the Platform.
                         <br/><br/>Termination by you: You may terminate these Terms of Use by giving seven days’ notice in writing to us.
                     </Typography><br/><br/><br/>
-                    <Typography sx={{ fontFamily: 'Poppins-Medium'}} fontWeight='bold' variant="h6">10. Notices</Typography>
-                    <Typography sx={{ fontFamily: 'Poppins-Medium'}} variant="body1">
+                    <Typography sx={{ fontFamily: 'Poppins'}} fontWeight='bold' variant="h6">10. Notices</Typography>
+                    <Typography sx={{ fontFamily: 'Poppins'}} variant="body1">
                         <br/>Notices from us: All notices or other communications given to you if:
                         <br/><br/>(a) communicated through any print or electronic media as we may select will be deemed to be notified to you on the date of publication or broadcast; or
                         <br/><br/>(b) sent by post or left at your last known address will be deemed to be received by you on the day following such posting or on the day when it was so left.
                         <br/><br/>Notices from you: You may only give notice to us in writing sent to our designated address or e-mail address, and we shall be deemed to have received such notice only upon receipt. While we endeavor to respond promptly to notices from you, we cannot guarantee that we will always respond with consistent speed.
                         <br/><br/>Other modes: Notwithstanding in notices above, we may from time to time designate other acceptable modes of giving notices (including but not limited to e-mail or other forms of electronic communication) and the time or event by which such notice shall be deemed given.
                     </Typography><br/><br/><br/>
-                    <Typography sx={{ fontFamily: 'Poppins-Medium'}} fontWeight='bold' variant="h6">11. General</Typography>
-                    <Typography sx={{ fontFamily: 'Poppins-Medium'}} variant="body1">
+                    <Typography sx={{ fontFamily: 'Poppins'}} fontWeight='bold' variant="h6">11. General</Typography>
+                    <Typography sx={{ fontFamily: 'Poppins'}} variant="body1">
                         <br/>Addition to any rights or remedies we may have in law or in equity, and no exercise by us of any one right or remedy under these Terms of Use, or at law or in equity, shall (save to the extent, if any, provided expressly in these Terms of Use or at law or in equity) operate so as to hinder or prevent our exercise of any other such right or remedy as at law or in equity.
                         <br/><br/>No waiver: Our failure to enforce these Terms of Use shall not constitute a waiver of these terms, and such failure shall not affect the right later to enforce these Terms of Use. We would still be entitled to use our rights and remedies in any other situation where you breach these Terms of Use.
                         <br/><br/>Severability: If at any time any provision of these Terms of Use shall be or shall become illegal, invalid or unenforceable in any respect, the legality, validity and enforceability of the remaining provisions of this Agreement shall not be affected or impaired thereby, and shall continue in force as if such illegal, invalid or unenforceable provision was severed from these Terms of Use.
@@ -157,8 +157,8 @@ export default [
                         <br/><br/>Assignment: You may not assign your rights under these Terms of Use without our prior written consent. We may assign our rights under these Terms of Use to any third party.
                         <br/><br/>Force Majeure: We shall not be liable for non-performance, error, interruption or delay in the performance of its obligations under these Terms of Use (or any part thereof) or for any inaccuracy, unreliability or unsuitability of the Platform's and/or Services’ contents if this is due, in whole or in part, directly or indirectly to an event or failure which is beyond our reasonable control.
                     </Typography><br/><br/><br/>
-                    <Typography sx={{ fontFamily: 'Poppins-Medium'}} fontWeight='bold' variant="h6">12. Voucher Terms and Conditions</Typography>
-                    <Typography sx={{ fontFamily: 'Poppins-Medium'}} variant="body1">
+                    <Typography sx={{ fontFamily: 'Poppins'}} fontWeight='bold' variant="h6">12. Voucher Terms and Conditions</Typography>
+                    <Typography sx={{ fontFamily: 'Poppins'}} variant="body1">
                         <br/>The following terms and conditions (T&Cs) apply to your use and redemption of promotional vouchers or voucher codes, where such vouchers are offered for no consideration (according to voucher Terms & Conditions)
                         <br/><br/><b>Definitions and Interpretation</b><br/>
                         <br/><br/>1. Definitions. Unless the context otherwise requires, the following expressions shall have the following meanings in these Terms of Use:
@@ -192,14 +192,14 @@ export default [
                         <br/><br/>2. Interpretation: Any reference in these Terms of Use to any provision of a statute shall be construed as a reference to that provision as amended, re-enacted or extended at the relevant time. In the Agreement, whenever the words “include”, “includes” or “including” are used, they will be deemed to be followed by the words “without limitation”. Unless expressly indicated otherwise, all references to a number of days’ mean calendar days, and the words “month” or “monthly” as well as all references to a number of months means calendar months. Clause headings are inserted for convenience only and shall not affect the interpretation of these Terms of Use. In the event of a conflict or inconsistency between any two or more provisions under these Terms of Use, whether such provisions are contained in the same or different documents, such conflict or inconsistency shall be resolved in favor of POFSIS and the provision which is more favorable to POFSIS shall prevail.
                         <br/><br/><br/><br/>
                     </Typography>
-                    <Typography sx={{ fontFamily: 'Poppins-Medium'}} fontWeight='bold' variant="h6">Fair Use Act Disclaimer</Typography>
-                    <Typography sx={{ fontFamily: 'Poppins-Medium'}} variant="body1">
+                    <Typography sx={{ fontFamily: 'Poppins'}} fontWeight='bold' variant="h6">Fair Use Act Disclaimer</Typography>
+                    <Typography sx={{ fontFamily: 'Poppins'}} variant="body1">
                         <br/>This CPA online review tool is operated by i4one, Inc. 
                         <br/><br/>The tool has been conceptualized to integrate techniques concept only. All materials are merely for educational and informational purposes. It is not intended as a substitute for professional advice. While the materials on this tool had been verified to the best of our abilities, we cannot guarantee that there are no mistakes or errors.
                         <br/><br/>There is no copyright infringement intended. i4One Inc, do not own the materials all credit to the rightful owners.
                     </Typography><br/><br/><br/>
-                    <Typography sx={{ fontFamily: 'Poppins-Medium'}} fontWeight='bold' variant="h6">Copyright Law References</Typography>
-                    <Typography sx={{ fontFamily: 'Poppins-Medium'}} variant="body1">
+                    <Typography sx={{ fontFamily: 'Poppins'}} fontWeight='bold' variant="h6">Copyright Law References</Typography>
+                    <Typography sx={{ fontFamily: 'Poppins'}} variant="body1">
                         <br/>Copyright Disclaimer under section 107 of the Copyright Act 1976, allowance is made for "fair use" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a permitted by copyright statue that might otherwise be infringing Non- profit, education or personal use tips the balance in favour of fair use.
                         <br/><br/>Copyright Disclaimer under Section 185 of Republic Act No. 8293
                         <br/><br/>Fair Use of a Copyrighted Work.   185.1. The fair use of a copyrighted work for criticism, comment, news reporting, teaching including multiple copies for classroom use, scholarship, research, and similar purposes is not an infringement of copyright. 
@@ -217,25 +217,25 @@ export default [
             data:
                 <Box>
                     <Box style={{textAlign: "center"}}> <img src={Policy} alt="terms" width="270"/></Box><br/><br/>
-                    <Typography sx={{ fontFamily: 'Poppins-Medium'}} fontWeight='bold' variant="h5">Data Policy</Typography><br/><br/>
-                    <Typography sx={{ fontFamily: 'Poppins-Medium'}} variant="body1">
+                    <Typography sx={{ fontFamily: 'Poppins'}} fontWeight='bold' variant="h5">Data Policy</Typography><br/><br/>
+                    <Typography sx={{ fontFamily: 'Poppins'}} variant="body1">
                         This policy describes the information we process to support POFSIS and other feature and tools powered by POFSIS. We take your privacy seriously; we are committed to complying with Republic Act 10173 or the Data Privacy Act of 2012 and its Implementing Rules and Regulations.
                     </Typography><br/><br/>
-                    <Typography sx={{ fontFamily: 'Poppins-Medium'}} fontWeight='bold' variant="h6">What You Need to Know?</Typography>
-                    <Typography sx={{ fontFamily: 'Poppins-Medium'}} variant="body1">
+                    <Typography sx={{ fontFamily: 'Poppins'}} fontWeight='bold' variant="h6">What You Need to Know?</Typography>
+                    <Typography sx={{ fontFamily: 'Poppins'}} variant="body1">
                         <br/>Welcome to POFSIS platform! Please read these terms and conditions carefully. The following Terms of Use govern your use and access of the Platform (defined below) and the use of the Services. By accessing the Platform and/or using the Services, you agree to be bound by these Terms of Use. If you do not agree to these Terms of Use, do not access and/or use this Platform or the Services.
                         <br/><br/>In the course of providing you with the Services or access to the Platform (as defined in the Terms of Use), we will be collecting, using, disclosing, storing and/or processing data, including your personal data.
                         <br/><br/>This Privacy Policy exists to keep you in the know about how we collect, use, disclose, store and/or process the data we collect and receive during the course of providing the Services or access to the Platform to you, our customer. We will only collect, use, disclose, store and/or process your personal data in accordance with this Privacy Policy.
                         <br/><br/>It is important that you read this Privacy Policy together with any other applicable notices we may provide on specific occasions when we are collecting, using, disclosing and/or processing personal data about you, so that you are fully aware of how and why we are using your personal data.<br/><br/><br/>
-                    <Box sx={{ fontFamily: 'Poppins-Medium', p:3, bgcolor: '#f6f6f6', borderRadius: 4 }}>
+                    <Box sx={{ fontFamily: 'Poppins', p:3, bgcolor: '#f6f6f6', borderRadius: 4 }}>
                         By clicking the above button”, “I agree to the POFSIS Terms of Use and Privacy Policy”, “I AGREE AND CONSENT TO THE COLLECTION, USE, DISCLOSURE, STORAGE AND/OR PROCESSING OF MY PERSONAL DATA FOR THE PURPOSE STATED IN, AND UNDER THE TERMS OF, POFSIS PRIVACY POLICY” OR SIMILAR STATEMENTS AVAILABLE AT THE POFSIS REGISTRATION PAGE, YOU ACKNOWLEDGE THAT YOU HAVE BEEN NOTIFIED OF AND UNDERSTOOD THE TERMS OF THIS PRIVACY POLICY AND THAT YOU HAVE AGREED AND CONSENTED TO THE COLLECTION, USE, DICLOSURE AND/OR PROCESSING OF YOUR PERSONAL DATA AS DESCRIBED AND UNDER THE TERMS HEREIN. 
                     </Box>
                         <br/><br/>We may update this Privacy Policy from time to time. Any changes we make to this Privacy Policy in the future will be posted on this page and notified to you, whereupon your consent to said changes, continued use of the Services, access to the Platform or use of the Services, shall constitute your acknowledgment and acceptance of the changes we make to this Privacy Policy. Please check back frequently to see any updates or changes to this Privacy Policy.
                         <br/><br/>This Privacy Policy applies in conjunction with other notices, contractual clauses and consent clauses that apply in relation to the collection, storage, use, disclosure and/or processing of your personal data by us and is not intended to override them unless we state expressly otherwise.
                         <br/><br/>You can visit the Platform and browse without having to provide personal details. However, you will be required to sign up for an account if you wish to use the Services.
                     </Typography><br/><br/>
-                    <Typography sx={{ fontFamily: 'Poppins-Medium'}} fontWeight='bold' variant="h6">The Personal Data We Collect from You</Typography>
-                    <Typography sx={{ fontFamily: 'Poppins-Medium'}} variant="body1">
+                    <Typography sx={{ fontFamily: 'Poppins'}} fontWeight='bold' variant="h6">The Personal Data We Collect from You</Typography>
+                    <Typography sx={{ fontFamily: 'Poppins'}} variant="body1">
                         <br/>Personal Data means any information, whether recorded in a material form or not, from which the identity of an individual is apparent or can be reasonably and directly ascertained by the entity holding the information, or when put together with other information would directly, indirectly, and certainly identify an individual.
                         <br/><br/>During the course of your use of the Platform and the provision of the Services, we may collect personal data from you, which includes but is not limited to:
                         <br/><br/>(a) Identity data, such as your name, gender, profile picture, and date of birth;
@@ -269,8 +269,8 @@ export default [
                         <br/><br/>If you provide personal data of any third party to us, you represent and warrant that you have obtained the necessary consent, license and permissions from that third party to share and transfer his/her personal data to us, and for us to collect, store, use and disclose that data in accordance with this Privacy Policy.
                         <br/><br/>If you sign up to be a user on our Platform using your social media account or link your POFSIS account to your social media account or use certain other POFSIS social media features, we may access personal data about you which you have voluntarily provided to your social media provider in accordance with the provider's policies and we will manage your personal data in accordance with this Privacy Policy.
                     </Typography><br/><br/><br/>
-                    <Typography sx={{ fontFamily: 'Poppins-Medium'}} fontWeight='bold' variant="h6">Use and Disclosure of Personal Data</Typography>
-                    <Typography sx={{ fontFamily: 'Poppins-Medium'}} variant="body1">
+                    <Typography sx={{ fontFamily: 'Poppins'}} fontWeight='bold' variant="h6">Use and Disclosure of Personal Data</Typography>
+                    <Typography sx={{ fontFamily: 'Poppins'}} variant="body1">
                         <br/>The personal data we collect from you or via third parties may be used by us, or shared with or transferred to third parties (including related companies, third party service providers and their service providers and related companies, companies located both inside and outside your home country, third party sellers and other users), for certain purposes, which include but are not limited to the following:
                         <br/><br/>(a) To facilitate your use of the Services or access to the Platform,
                         <br/><br/>(b) To respond to your queries, feedback claims or disputes, whether directly or through our outsourced customer service agents;
@@ -303,8 +303,8 @@ export default [
                         <br/><br/>We may share and permit the sharing of your personal data with third parties and our affiliates for any of the abovementioned purposes, including but not limited to, facilitating your use of the Services, completing a transaction with you, managing your account and our relationship with you, marketing and fulfilling any legal or regulatory requirements and requests as deemed necessary by us. In sharing your personal data with them, we endeavor to ensure that the third parties and our affiliates keep your personal data secure from unauthorized access, collection, use, disclosure, processing or similar risks and retain your personal data only for as long as they need your personal data to achieve the abovementioned purposes.
                         <br/><br/>If you are located in the Philippines, we may transfer or permit the transfer of your personal data outside of the Philippines for any of the purposes set out in this Privacy Policy.
                     </Typography><br/><br/><br/>
-                    <Typography sx={{ fontFamily: 'Poppins-Medium'}} fontWeight='bold' variant="h6">Rights of User</Typography>
-                    <Typography sx={{ fontFamily: 'Poppins-Medium'}} variant="body1">
+                    <Typography sx={{ fontFamily: 'Poppins'}} fontWeight='bold' variant="h6">Rights of User</Typography>
+                    <Typography sx={{ fontFamily: 'Poppins'}} variant="body1">
                         <br/>As a user you have the right to:
                         <br/><br/>(a) Withdraw your consent to the continued use, disclosure and/or processing of your personal data;
                         <br/><br/>(b) Request erasure or blocking of your personal data;
@@ -314,20 +314,20 @@ export default [
                         <br/><br/><br/><br/>If you want to withdraw your consent, or request for erasure or blocking of your personal data at any time, you may do so by contacting us at <Link sx={{ color: '#0070ef' }} href="https://pofsis.com" target="_blank">http://pofsis.com</Link>.
                         <br/><br/>Please note that if you exercise any of your rights set out above, we may not be in a position to continue to provide the Services to you or perform on any contract we have with you, and we will not be liable in the event that we do not continue to provide the Services to, or perform our contract with you. Our legal rights and remedies are expressly reserved in such an event.
                     </Typography><br/><br/><br/>
-                    <Typography sx={{ fontFamily: 'Poppins-Medium'}} fontWeight='bold' variant="h6">Updating Your Personal Data</Typography>
-                    <Typography sx={{ fontFamily: 'Poppins-Medium'}} variant="body1">
+                    <Typography sx={{ fontFamily: 'Poppins'}} fontWeight='bold' variant="h6">Updating Your Personal Data</Typography>
+                    <Typography sx={{ fontFamily: 'Poppins'}} variant="body1">
                         <br/>It is important that the personal data you provide to us is accurate and complete for you to continue using the Platform and for us to provide the Services. You are responsible for informing us of changes to your personal data, or in the event you believe that the personal data we have about you is inaccurate, incomplete, misleading or out of date.
                         <br/><br/>You can update your personal data anytime by accessing your account on the Platform.
                         <br/><br/>We take steps to share the updates to your personal data with third parties and our affiliates with whom we have shared your personal data if your personal data is still necessary for the above-stated purposes.
                     </Typography><br/><br/><br/>
-                    <Typography sx={{ fontFamily: 'Poppins-Medium'}} fontWeight='bold' variant="h6">Accessing Your Personal Data</Typography>
-                    <Typography sx={{ fontFamily: 'Poppins-Medium'}} variant="body1">
+                    <Typography sx={{ fontFamily: 'Poppins'}} fontWeight='bold' variant="h6">Accessing Your Personal Data</Typography>
+                    <Typography sx={{ fontFamily: 'Poppins'}} variant="body1">
                         <br/>You may request information about your personal data which we have collected or enquire about the ways in which your personal data may have been used, disclosed, stored or processed by us within the past year. In order to facilitate processing of your request, it may be necessary for us to request further information relating to your request.
                         <br/><br/>We reserve the right to charge a reasonable administrative fee for retrieving your personal data records. If so, we will inform you of the fee before processing your request.
                         <br/><br/>We will respond to your request as soon as reasonably possible. Should we not be able to respond to your request within twenty-one (21) days from the date of your request, we will inform you in writing. If we are unable to provide you with any personal data or to make a correction requested by you, we shall generally inform you of the reasons why we are unable to do so (except where we are not required to do so under the applicable data protection laws).
                     </Typography><br/><br/><br/>
-                    <Typography sx={{ fontFamily: 'Poppins-Medium'}} fontWeight='bold' variant="h6">Security of Your Personal Data</Typography>
-                    <Typography sx={{ fontFamily: 'Poppins-Medium'}} variant="body1">
+                    <Typography sx={{ fontFamily: 'Poppins'}} fontWeight='bold' variant="h6">Security of Your Personal Data</Typography>
+                    <Typography sx={{ fontFamily: 'Poppins'}} variant="body1">
                         <br/>To safeguard your personal data from unauthorized access, collection, use, disclosure, processing, copying, modification, disposal, loss, misuse, modification or similar risks, we have introduced appropriate administrative, physical and technical measures such as:
                         <br/><br/>(a) Restricting access to personal data to individuals who require access;
                         <br/><br/>(b) Maintaining technology products to prevent unauthorized computer access; and
@@ -336,20 +336,20 @@ export default [
                         <br/><br/>You should be aware, however, that no method of transmission over the internet or method of electronic storage is completely secure. While security cannot be guaranteed, we strive to protect the security of your information and are constantly reviewing and enhancing our information security measures.
                         <br/><br/>Your password is the key to your account. Please use unique numbers, letters and special characters, and do not share your POFSIS password to anyone. If you do share your password with others, you will be responsible for all actions taken in the name of your account and the consequences. If you lose control of your password, you may lose substantial control over your personal data and other data submitted to POFSIS. You could also be subject to legally binding actions taken on your behalf. Therefore, if your password has been compromised for any reason or if you have grounds to believe that your password has been compromised, you should immediately contact us and change your password. You are reminded to log out of your account and close the browser when you are finished with using a shared computer.
                     </Typography><br/><br/><br/>
-                    <Typography sx={{ fontFamily: 'Poppins-Medium'}} fontWeight='bold' variant="h6">Retention of Personal Data</Typography>
-                    <Typography sx={{ fontFamily: 'Poppins-Medium'}} variant="body1">
+                    <Typography sx={{ fontFamily: 'Poppins'}} fontWeight='bold' variant="h6">Retention of Personal Data</Typography>
+                    <Typography sx={{ fontFamily: 'Poppins'}} variant="body1">
                         <br/>We will only retain your personal data for as long as we are either required to by law or as is relevant for the purposes for which it was collected.
                         <br/><br/>We will cease to retain your personal data, or remove the means by which the data can be associated with you, as soon as it is reasonable to assume that such retention no longer serves the purposes for which the personal data was collected, and is no longer necessary for any legal or business purpose.
                     </Typography><br/><br/><br/>
-                    <Typography sx={{ fontFamily: 'Poppins-Medium'}} fontWeight='bold' variant="h6">Minors</Typography>
-                    <Typography sx={{ fontFamily: 'Poppins-Medium'}} variant="body1">
+                    <Typography sx={{ fontFamily: 'Poppins'}} fontWeight='bold' variant="h6">Minors</Typography>
+                    <Typography sx={{ fontFamily: 'Poppins'}} variant="body1">
                         <br/>POFSIS does not sell products for purchase by minors (which is to be determined based on the applicable law), nor does it intend to provide any of the Services or the use of the Platform to minors. We do not knowingly collect any personal data relating to minors.
                         <br/><br/>You hereby confirm and warrant that you are above the age of minority and you are capable of understanding and accepting the terms of this Privacy Policy. If you are a minor, you may use our Platform only with the involvement of a parent or guardian.
                         <br/><br/>As a parent or legal guardian, please do not allow minors under your care to submit personal data to POFSIS. In the event that such personal data of a minor is disclosed to POFSIS, you hereby consent to the processing of the minor’s personal data and accept and agree to be bound by this Privacy Policy and take responsibility for his or her actions.
                         <br/><br/>We will not be responsible for any unauthorized use of the Services on the Platform by yourself, users who act on your behalf or any unauthorized users. It is your responsibility to make your own informed decisions about the use of the Services on the Platform and take necessary steps to prevent any misuse of the Services on the Platform.
                     </Typography><br/><br/>
-                    <Typography sx={{ fontFamily: 'Poppins-Medium'}} fontWeight='bold' variant="h6">Collection of Computer Data</Typography><br/>
-                    <Typography sx={{ fontFamily: 'Poppins-Medium'}} variant="body1">
+                    <Typography sx={{ fontFamily: 'Poppins'}} fontWeight='bold' variant="h6">Collection of Computer Data</Typography><br/>
+                    <Typography sx={{ fontFamily: 'Poppins'}} variant="body1">
                         <br/>We or our authorized service providers may use cookies, web beacons, and other similar technologies for storing data to help provide you with a better, faster, safer and personalized experience when you use the Services or access the Platform.
                         <br/><br/>When you visit the Platform through your computer, mobile device, or any other device with internet connectivity, our company servers will automatically record data that your browser sends whenever you visit a website. This data may include:
                         <br/><br/>(a) Your computer or device's IP address;
@@ -363,21 +363,21 @@ export default [
                         <br/><br/>Web beacons are small graphic images that may be included on our Service and the Platform. They allow us to count users who have viewed these pages so that we can better understand your preference and interests.
                     </Typography><br/><br/>
                     <Box sx={{ p:3, bgcolor: '#f6f6f6', borderRadius: 4 }}>
-                        <Typography sx={{ fontFamily: 'Poppins-Medium'}} fontWeight='bold' variant="h6">POFSIS Right to Disclose Personal Data</Typography><br/>
-                        <Typography sx={{ fontFamily: 'Poppins-Medium'}} variant="body1">
+                        <Typography sx={{ fontFamily: 'Poppins'}} fontWeight='bold' variant="h6">POFSIS Right to Disclose Personal Data</Typography><br/>
+                        <Typography sx={{ fontFamily: 'Poppins'}} variant="body1">
                             YOU ACKNOWLEDGE AND AGREE THAT POFSIS HAS THE RIGHT TO DISCLOSE YOUR PERSONAL DATA TO ANY LEGAL, REGULATORY, GOVERNMENTAL, TAX, LAW ENFORCEMENT OR OTHER AUTHORITIES OR THE RELEVANT RIGHT OWNERS, IF DADAS DELIVERY HAS REASONABLE GROUNDS TO BELIEVE THAT DISCLOSURE OF YOUR PERSONAL DATA IS NECESSARY FOR THE PURPOSE OF MEETING ANY OBLIGATIONS, REQUIREMENTS OR ARRANGEMENTS, WHETHER VOLUNTARY OR MANDATORY, AS A RESULT OF COOPERATING WITH AN ORDER, AN INVESTIGATION AND/OR A REQUEST OF ANY NATURE BY SUCH PARTIES. TO THE EXTENT PERMISSIBLE BY APPLICABLE LAW, YOU AGREE NOT TO TAKE ANY ACTION AND/OR WAIVE YOUR RIGHTS TO TAKE ANY ACTION AGAINST POFSIS FOR THE DISCLOSURE OF YOUR PERSONAL DATA IN THESE CIRCUMSTANCES.
                         </Typography>
                     </Box><br/><br/><br/>
-                    <Typography sx={{ fontFamily: 'Poppins-Medium'}} fontWeight='bold' variant="h6">Third Party Sites</Typography>
-                    <Typography sx={{ fontFamily: 'Poppins-Medium'}} variant="body1">
+                    <Typography sx={{ fontFamily: 'Poppins'}} fontWeight='bold' variant="h6">Third Party Sites</Typography>
+                    <Typography sx={{ fontFamily: 'Poppins'}} variant="body1">
                         <br/>The Platform may contain links to other websites operated by other parties, such as our business affiliates, merchants or payment gateways. We are not responsible for the privacy practices of websites operated by these other parties. You are advised to check on the applicable privacy policies of those websites to determine how they will handle any information they collect from you.
                     </Typography><br/><br/><br/>
-                    <Typography sx={{ fontFamily: 'Poppins-Medium'}} fontWeight='bold' variant="h6">How do the tools powered by POFSIS work together?</Typography>
-                    <Typography sx={{ fontFamily: 'Poppins-Medium'}} variant="body1">
+                    <Typography sx={{ fontFamily: 'Poppins'}} fontWeight='bold' variant="h6">How do the tools powered by POFSIS work together?</Typography>
+                    <Typography sx={{ fontFamily: 'Poppins'}} variant="body1">
                         <br/>POFSIS handles the integration of every flow of processes by providing single sided API that require acquired by all accredited tools. This makes all the tools talks to each other regardless of the features and functionality it provides.
                     </Typography><br/><br/><br/>
-                    <Typography sx={{ fontFamily: 'Poppins-Medium'}} fontWeight='bold' variant="h6">Questions, Feedback, Concerns, Suggestions or Complaints</Typography>
-                    <Typography sx={{ fontFamily: 'Poppins-Medium'}} variant="body1">
+                    <Typography sx={{ fontFamily: 'Poppins'}} fontWeight='bold' variant="h6">Questions, Feedback, Concerns, Suggestions or Complaints</Typography>
+                    <Typography sx={{ fontFamily: 'Poppins'}} variant="body1">
                         <br/>If you have any questions on personal data protection or data privacy, please refer to our list of frequently asked questions.
                         <br/><br/>If your question is not covered in our FAQs, or if you have any feedback, concerns, suggestions or complaints in relation to personal data, please feel free to contact us at pofsis.com.
                     </Typography>
@@ -389,56 +389,56 @@ export default [
             data: 
                 <Box>
                     <Box style={{textAlign: "center"}}> <img src={Cookies} alt="cookies" width="250"/></Box><br/><br/>
-                    <Typography sx={{ fontFamily: 'Poppins-Medium'}} fontWeight='bold' variant="h5">Cookies Policy</Typography><br/><br/>
-                    <Typography sx={{ fontFamily: 'Poppins-Medium'}} variant="body1">
+                    <Typography sx={{ fontFamily: 'Poppins'}} fontWeight='bold' variant="h5">Cookies Policy</Typography><br/><br/>
+                    <Typography sx={{ fontFamily: 'Poppins'}} variant="body1">
                         <br/>This is the Cookie Policy for POFSIS, accessible from <Link sx={{ color: '#0070ef' }} href="https://pofsis.com" target="_blank">http://pofsis.com</Link>
                     </Typography><br/><br/><br/>
-                    <Typography sx={{ fontFamily: 'Poppins-Medium'}} fontWeight='bold' variant="h6">What Are Cookies</Typography>
-                    <Typography sx={{ fontFamily: 'Poppins-Medium'}} variant="body1">
+                    <Typography sx={{ fontFamily: 'Poppins'}} fontWeight='bold' variant="h6">What Are Cookies</Typography>
+                    <Typography sx={{ fontFamily: 'Poppins'}} variant="body1">
                         <br/>As is common practice with almost all professional websites this site uses cookies, which are tiny files that are downloaded to your computer, to improve your experience. This page describes what information they gather, how we use it and why we sometimes need to store these cookies. We will also share how you can prevent these cookies from being stored however this may downgrade or 'break' certain elements of the sites functionality.
                         <br/><br/>For more general information on cookies, please read <Link sx={{ color: '#0070ef' }} href="https://www.termsfeed.com/blog/cookies/" target="_blank">What are cookies</Link>
                     </Typography><br/><br/><br/>
-                    <Typography sx={{ fontFamily: 'Poppins-Medium'}} fontWeight='bold' variant="h6">How We Use Cookies</Typography>
-                    <Typography sx={{ fontFamily: 'Poppins-Medium'}} variant="body1">
+                    <Typography sx={{ fontFamily: 'Poppins'}} fontWeight='bold' variant="h6">How We Use Cookies</Typography>
+                    <Typography sx={{ fontFamily: 'Poppins'}} variant="body1">
                         <br/>We use cookies for a variety of reasons detailed below. Unfortunately in most cases there are no industry standard options for disabling cookies without completely disabling the functionality and features they add to this site. It is recommended that you leave on all cookies if you are not sure whether you need them or not in case they are used to provide a service that you use.
                     </Typography><br/><br/><br/>
-                    <Typography sx={{ fontFamily: 'Poppins-Medium'}} fontWeight='bold' variant="h6">Disabling Cookies</Typography>
-                    <Typography sx={{ fontFamily: 'Poppins-Medium'}} variant="body1">
+                    <Typography sx={{ fontFamily: 'Poppins'}} fontWeight='bold' variant="h6">Disabling Cookies</Typography>
+                    <Typography sx={{ fontFamily: 'Poppins'}} variant="body1">
                         <br/>You can prevent the setting of cookies by adjusting the settings on your browser (see your browser Help for how to do this). Be aware that disabling cookies will affect the functionality of this and many other websites that you visit. Disabling cookies will usually result in also disabling certain functionality and features of the this site. Therefore it is recommended that you do not disable cookies.
                     </Typography><br/><br/><br/>
-                    <Typography sx={{ fontFamily: 'Poppins-Medium'}} fontWeight='bold' variant="h6">The Cookies We Set</Typography>
-                    <Typography sx={{ fontFamily: 'Poppins-Medium'}} variant="body1">
-                    <Typography sx={{ fontFamily: 'Poppins-Medium', color: '#0070ef' }} variant="body1">
+                    <Typography sx={{ fontFamily: 'Poppins'}} fontWeight='bold' variant="h6">The Cookies We Set</Typography>
+                    <Typography sx={{ fontFamily: 'Poppins'}} variant="body1">
+                    <Typography sx={{ fontFamily: 'Poppins', color: '#0070ef' }} variant="body1">
                         <br/><li>Account related cookies</li>
                     </Typography>
                     <br/>If you create an account with us then we will use cookies for the management of the signup process and general administration. These cookies will usually be deleted when you log out however in some cases they may remain afterwards to remember your site preferences when logged out.
-                    <Typography sx={{ fontFamily: 'Poppins-Medium', color: '#0070ef' }} variant="body1">
+                    <Typography sx={{ fontFamily: 'Poppins', color: '#0070ef' }} variant="body1">
                         <br/><li>Login related cookies</li>
                     </Typography>
                     <br/>We use cookies when you are logged in so that we can remember this fact. This prevents you from having to log in every single time you visit a new page. These cookies are typically removed or cleared when you log out to ensure that you can only access restricted features and areas when logged in.
-                    <Typography sx={{ fontFamily: 'Poppins-Medium', color: '#0070ef' }} variant="body1">
+                    <Typography sx={{ fontFamily: 'Poppins', color: '#0070ef' }} variant="body1">
                         <br/><li>Email newsletters related cookies</li>
                     </Typography>
                     <br/>This site offers newsletter or email subscription services and cookies may be used to remember if you are already registered and whether to show certain notifications which might only be valid to subscribed/unsubscribed users.
-                    <Typography sx={{ fontFamily: 'Poppins-Medium', color: '#0070ef' }} variant="body1">
+                    <Typography sx={{ fontFamily: 'Poppins', color: '#0070ef' }} variant="body1">
                         <br/><li>Orders processing related cookies</li>
                     </Typography>
                     <br/>This site offers e-commerce or payment facilities and some cookies are essential to ensure that your order is remembered between pages so that we can process it properly.
-                    <Typography sx={{ fontFamily: 'Poppins-Medium', color: '#0070ef' }} variant="body1">
+                    <Typography sx={{ fontFamily: 'Poppins', color: '#0070ef' }} variant="body1">
                         <br/><li>Surveys related cookies</li>
                     </Typography>
                     <br/>From time to time we offer user surveys and questionnaires to provide you with interesting insights, helpful tools, or to understand our user base more accurately. These surveys may use cookies to remember who has already taken part in a survey or to provide you with accurate results after you change pages.
-                    <Typography sx={{ fontFamily: 'Poppins-Medium', color: '#0070ef' }} variant="body1">
+                    <Typography sx={{ fontFamily: 'Poppins', color: '#0070ef' }} variant="body1">
                         <br/><li>Forms related cookies</li>
                     </Typography>
                     <br/>When you submit data to through a form such as those found on contact pages or comment forms cookies may be set to remember your user details for future correspondence.
-                    <Typography sx={{ fontFamily: 'Poppins-Medium', color: '#0070ef' }} variant="body1">
+                    <Typography sx={{ fontFamily: 'Poppins', color: '#0070ef' }} variant="body1">
                         <br/><li>Site preferences cookies<br/></li>
                     </Typography>
                     <br/>In order to provide you with a great experience on this site we provide the functionality to set your preferences for how this site runs when you use it. In order to remember your preferences we need to set cookies so that this information can be called whenever you interact with a page is affected by your preferences.
                     </Typography><br/><br/><br/>
-                    <Typography sx={{ fontFamily: 'Poppins-Medium'}} fontWeight='bold' variant="h6">Third Party Cookies</Typography>
-                    <Typography sx={{ fontFamily: 'Poppins-Medium'}} variant="body1">
+                    <Typography sx={{ fontFamily: 'Poppins'}} fontWeight='bold' variant="h6">Third Party Cookies</Typography>
+                    <Typography sx={{ fontFamily: 'Poppins'}} variant="body1">
                     <br/>In some special cases we also use cookies provided by trusted third parties. The following section details which third party cookies you might encounter through this site.
                     <br/><br/><li>This site uses Google Analytics which is one of the most widespread and trusted analytics solution on the web for helping us to understand how you use the site and ways that we can improve your experience. These cookies may track things such as how long you spend on the site and the pages that you visit so we can continue to produce engaging content.</li>
                     <br/><br/>For more information on Google Analytics cookies, see the official Google Analytics page.
@@ -451,11 +451,11 @@ export default [
                     <br/><br/><li>Several partners advertise on our behalf and affiliate tracking cookies simply allow us to see if our customers have come to the site through one of our partner sites so that we can credit them appropriately and where applicable allow our affiliate partners to provide any bonus that they may provide you for making a purchase.</li>
                     <br/><br/><li>We also use social media buttons and/or plugins on this site that allow you to connect with your social network in various ways. For these to work the following social media sites including; List the social networks whose features you have integrated with your site?:12, will set cookies through our site which may be used to enhance your profile on their site or contribute to the data they hold for various purposes outlined in their respective privacy policies.</li>
                     </Typography><br/><br/><br/>
-                    <Typography sx={{ fontFamily: 'Poppins-Medium'}} fontWeight='bold' variant="h6">More Information</Typography>
-                    <Typography sx={{ fontFamily: 'Poppins-Medium'}} variant="body1">
+                    <Typography sx={{ fontFamily: 'Poppins'}} fontWeight='bold' variant="h6">More Information</Typography>
+                    <Typography sx={{ fontFamily: 'Poppins'}} variant="body1">
                         <br/>Hopefully that has clarified things for you and as was previously mentioned if there is something that you aren't sure whether you need or not it's usually safer to leave cookies enabled in case it does interact with one of the features you use on our site. This Cookies Policy was created with the help of the Cookies Policy Template Generator and the Privacy Policy Template Generator.
                         <br/><br/>However if you are still looking for more information then you can contact us through one of our preferred contact methods:
-                        <br/><li>Email: pofsis-admin@pofsis.com</li>
+                        <br/><br/><li>Email: pofsis-admin@pofsis.com</li>
                         <br/><li>By visiting this link: <Link sx={{ color: '#0070ef' }} href="https://pofsis.com" target="_blank">https://pofsis.com</Link></li>
                         <br/><li>Phone: 687-6649</li>
                     </Typography>

@@ -73,7 +73,7 @@ export const Core = () => {
 							<Navigation side={0} />
 							<Box display="flex">
 								<Navigation side={1} />
-								<Box mt={16} flexGrow={1}>
+								<Box flexGrow={1}>
 									<WebRoute />
 								</Box>
 							</Box>
